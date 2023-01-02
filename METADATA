@@ -1,19 +1,3 @@
-name: "nom"
-description: "A byte-oriented, zero-copy, parser combinators library"
-third_party {
-  url {
-    type: HOMEPAGE
-    value: "https://crates.io/crates/nom"
-  }
-  url {
-    type: ARCHIVE
-    value: "https://static.crates.io/crates/nom/nom-5.1.2.crate"
-  }
-  version: "5.1.2"
-  license_type: NOTICE
-  last_upgrade_date {
-    year: 2020
-    month: 10
-    day: 26
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:00aa4d5cba22b0969ae5eef2f5ba3c19ca5e11a8f172476b685f16d58b25bd97
+size 375
